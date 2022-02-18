@@ -19,12 +19,7 @@
                 combo_w {
                         timeout-ms = <50>;
                         key-positions = <29 30>;
-                        bindings = <&kp W>;
-                };
-                combo_reset {
-                        timeout-ms = <2000>;
-                        key-positions = <29 30>;
-                        bindings = <&kp S>;
+                        bindings = <&mt S W>;
                 };
         };
 
