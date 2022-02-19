@@ -1,0 +1,8 @@
+file_format: "1"
+id: macro_pad
+name: Macropad 1x2
+type: shield
+url: https://github.com/foostan/crkbd/
+requires: [pro_micro]
+features:
+  - keys
